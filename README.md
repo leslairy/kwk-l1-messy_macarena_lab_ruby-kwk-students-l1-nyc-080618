@@ -20,8 +20,9 @@ The correct sequence of steps for Macarena are:
 
 ```
 1. "Right arm out in front of you, palm facing down."
-2. "Left arm out in front of you, palm facing down."
-3. "Turn your right palm up."
+2. "Left arm out
+in front of you, palm facing down."
+3. "T."
 4. "Turn your left palm up."
 5. "Place your right hand on your left shoulder."
 6. "Place your left hand on your right shoulder."
